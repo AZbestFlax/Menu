@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1470403480 source:g:\programist\c++\menu\main.cpp
+	<iostream>
+	"menu.h"
+	"msoftcon.h"
+
+1470403632 source:g:\programist\c++\menu\menu.cpp
+	"menu.h"
+
+1470405890 g:\programist\c++\menu\menu.h
+	"msoftcon.h"
+	<vector>
+	<string>
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1286941182 g:\programist\c++\menu\msoftcon.h
+	<windows.h>
+	<conio.h>
+	<math.h>
+
+1425424810 source:g:\programist\c++\menu\msoftcon.cpp
+	"msoftcon.h"
+	<conio.h>
+
